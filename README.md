@@ -5,5 +5,8 @@
 ## Data Chrolling 
 데이터 수집 
 
-## Data Analysis and Visualization
-데이터 분석 및 시각화 
+## Data Analysis(EDA)
+데이터 분석
+
+## Data Visualization
+데이터 시각화
