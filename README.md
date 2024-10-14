@@ -6,12 +6,12 @@
 - 배운 모든 것들을 저장
 
 ## Data Chrolling 
-데이터 수집 
+- 데이터 수집 
 
 ## Data Analysis(EDA)
-데이터 분석
+- 데이터 분석
 
 ## Data Visualization
-데이터 시각화
+- 데이터 시각화
 
 
