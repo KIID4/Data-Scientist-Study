@@ -1,9 +1,6 @@
 # Data-Scientist-Study
 데이터 과학자가 되기 위한 공부 기록
 
-## AIFFEL
-- 데이터 사이언스 관련 부트캠프
-
 ## Data Chrolling 
 - 데이터 수집 
 
